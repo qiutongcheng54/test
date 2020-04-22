@@ -1,0 +1,12 @@
+{
+  "version_code": 1,
+  "host_list": [
+    "http://fdsjfk.com",
+    "http://gangangan.com",
+    "http://192.168.0.105:9528",
+    "http://localhost:9528"
+  ],
+  "config_list": [
+    "https://raw.githubusercontent.com/rolandpd/transformConfigJson/master/package.json"
+  ]
+}
